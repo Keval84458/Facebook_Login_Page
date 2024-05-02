@@ -1,0 +1,78 @@
+/*
+  1. Heading CSS
+*/
+
+/* font size respomnsive */
+@media screen and (min-width: 0px) {
+  html {
+    font-size: 85%;
+  }
+}
+@media screen and (min-width: 766px) {
+  html {
+    font-size: 90%;
+  }
+}
+@media screen and (min-width: 990px) {
+  html {
+    font-size: 100%;
+  }
+}
+
+
+body{
+  background-color: #EDF0F5;
+}
+.header{
+  color: #fff;
+  /* padding-left: 50px; */
+  padding-top: 10px;
+}
+.textbox1{
+  height: 27px;
+}
+
+.textbox2{
+  height: 27px;
+}
+.r1{
+  background-color: darkblue;
+  /* height: 71px; */
+}
+.btn23{
+  height: 33px;
+  width: 75px;
+}
+.tb{
+  color: #fff;
+}
+.tb1{
+  color: #fff;
+}
+.child{
+  padding: 30px;
+}
+.child h3{
+  width: 27rem;
+}
+.child p{
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+.child p span{
+  font-weight: normal;
+  opacity: 0.8;
+  font-size: 1rem;
+  /* font-size: 10px; */
+}
+.child i{
+  color:#A4B3C7;
+  margin-bottom: 1rem;
+}
+
+.r3 h5{
+  font-weight: lighter;
+}
+
+
+
